@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "SUPERWOMAN",
+  "base_artist": "UNIS",
+  "createdAt": "2025-12-24T11:12:58.675796Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Superwoman (Where Were You When I Needed You) [feat. Patti Austin]",
+      "artist": "Quincy Jones",
+      "has_synced": false,
+      "path": "select/01_Superwoman_(Where_Were_You_When_I_Needed_You)_[feat._Patti_Austin]_Quincy_Jones.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Superwoman (Where Were You When I Needed You)",
+      "artist": "Quincy Jones",
+      "has_synced": false,
+      "path": "select/02_Superwoman_(Where_Were_You_When_I_Needed_You)_Quincy_Jones.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Superwoman",
+      "artist": "Meghan Trainor",
+      "has_synced": true,
+      "path": "select/03_Superwoman_Meghan_Trainor.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Superwoman (Where Were You When I Needed You)",
+      "artist": "Stevie Wonder",
+      "has_synced": false,
+      "path": "select/04_Superwoman_(Where_Were_You_When_I_Needed_You)_Stevie_Wonder.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Superwoman",
+      "artist": "Alicia Keys",
+      "has_synced": true,
+      "path": "select/05_Superwoman_Alicia_Keys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Superwoman",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/06_Superwoman_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Superwoman",
+      "artist": "Karyn White",
+      "has_synced": true,
+      "path": "select/07_Superwoman_Karyn_White.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Superwoman",
+      "artist": "Alicia Keys",
+      "has_synced": false,
+      "path": "select/08_Superwoman_Alicia_Keys.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Superwoman",
+      "artist": "Karyn White",
+      "has_synced": true,
+      "path": "select/09_Superwoman_Karyn_White.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Superwoman",
+      "artist": "Karyn White",
+      "has_synced": true,
+      "path": "select/10_Superwoman_Karyn_White.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Superwoman - Edit Version",
+      "artist": "Karyn White",
+      "has_synced": false,
+      "path": "select/11_Superwoman_-_Edit_Version_Karyn_White.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Superwoman (Edit Version)",
+      "artist": "Karyn White",
+      "has_synced": false,
+      "path": "select/12_Superwoman_(Edit_Version)_Karyn_White.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Superwoman",
+      "artist": "Alicia Keys",
+      "has_synced": true,
+      "path": "select/13_Superwoman_Alicia_Keys.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SUPERWOMAN",
+      "artist": "UNIS",
+      "has_synced": false,
+      "path": "select/pl_01_SUPERWOMAN_UNIS.txt"
+    }
+  ]
+}
